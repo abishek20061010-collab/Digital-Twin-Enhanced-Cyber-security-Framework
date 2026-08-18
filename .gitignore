@@ -1,2 +1,12 @@
+# Raw datasets
+*.pcap
+*.pcap.csv
+
+# Preprocessed data
+preprocessed_data/
+
+# Virtual environment
 venv/
+.venv/
 __pycache__/
+*.pyc
